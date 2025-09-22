@@ -36,7 +36,7 @@ Experiment with your own PDFs or text data.
 
 📂 File
 
-Exploring_Vector_Database_Operations_in_LangChain.ipynb
+Vector_Database_Operations_in_LangChain_WithZeel.ipynb
 
 🧠 Learnings
 
