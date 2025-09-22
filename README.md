@@ -21,3 +21,25 @@ This notebook shows how vector databases + LangChain can **solve real-world prob
 ```bash
 pip install langchain langchain-openai langchain-community
 pip install langchain-chroma pymupdf jq
+
+▶️ Usage
+
+Enter your OpenAI API key in the notebook.
+
+Run cells step by step:
+
+Setup ChromaDB
+Embed documents
+Store & retrieve vectors
+Query with LangChain retriever
+Experiment with your own PDFs or text data.
+
+📂 File
+
+Exploring_Vector_Database_Operations_in_LangChain.ipynb
+
+🧠 Learnings
+
+Basics of vector embeddings
+How Chroma stores and queries vectors
+How LangChain integrates retrieval into AI workflows
