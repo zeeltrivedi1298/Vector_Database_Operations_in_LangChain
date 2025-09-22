@@ -1,7 +1,7 @@
 
 # Vector Database Operations in LangChain
 
-This project demonstrates how to use **LangChain** with a **Vector Database (Chroma)** to build the foundation for Retrieval-Augmented Generation (RAG) applications.  
+This project demonstrates how to use **LangChain** with a **Vector Database (Chroma)** to build intelligent document search and retrieval systems.  
 
 ## 🚀 Features
 - Install and configure LangChain + Chroma
